@@ -6,7 +6,6 @@
 
 ---
 
-> [!WARNING]
 > **Disclaimer:** Provided **AS-IS** with **NO WARRANTY**. Use at your own risk.
 
 ---
