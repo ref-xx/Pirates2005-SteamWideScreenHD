@@ -32,12 +32,18 @@ Deleting `winmm.dll` completely disables the hook and restores default game beha
 
 ---
 
-## ⚙️ Recommended Settings & Known Issues
+## ⚙️ Recommended Settings
 
 * **Advanced Lighting:** Recommended to turn **OFF** to avoid minor rendering glitches.
 * **Other Graphics:** Max out all other visual settings.
 * **Target Resolution:** This patch is designed specifically for **1920x1080**.
 * **Testing:** Tested via a complete campaign playthrough. While fully playable end-to-end, minor visual quirks may occur due to the age of the engine.
+
+### Known Issues
+
+1. **Scene Transitions:** Minor scaling glitches may be noticeable during transition screens.
+2. **4:3 Background Assets:** Certain pre-rendered backgrounds were originally designed for a 4:3 aspect ratio, leading to visible empty space on widescreen setups. This primarily impacts a few early intro/cutscene moments and was intentionally kept untouched.
+3. **Sharp GUI vs. Minor Quirks:** Priority was strictly given to keeping UI elements, fonts, and dialogue text crisp and pixel-perfect rather than soft-scaled or blurry. A few minor visual artifacts result from this trade-off, but readable text was favored over complete asset stretching.
 
 ---
 
