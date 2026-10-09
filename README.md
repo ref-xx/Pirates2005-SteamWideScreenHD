@@ -70,9 +70,9 @@ The custom DLL acts as a proxy:
 
 ## 📸 Screenshots
 
-![Screenshot 2](screens/Screenshot_2.png)
-![Screenshot 3](screens/Screenshot_3.png)
-![Screenshot 4](screens/Screenshot_4.png)
-![Screenshot 6](screens/Screenshot_6.png)
-![Screenshot 7](screens/Screenshot_7.png)
-![Screenshot 8](screens/Screenshot_8.png)
+![Screenshot 2](Screens/Screenshot_2.png)
+![Screenshot 3](Screens/Screenshot_3.png)
+![Screenshot 4](Screens/Screenshot_4.png)
+![Screenshot 6](Screens/Screenshot_6.png)
+![Screenshot 7](Screens/Screenshot_7.png)
+![Screenshot 8](Screens/Screenshot_8.png)
