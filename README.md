@@ -64,3 +64,15 @@ The custom DLL acts as a proxy:
 | **Pirates!.exe** (Steam Build 21031) | — | `5342209c16ea847fa6ac9b90f25a20b46012aef24d1b5f8a7c7facdfe174e2e7` |
 | **winmm.dll** | `163,328` | `d992923768c1d62d3d83213c82f722057ec3e459488fcef83d7acab49d40e363` |
 | **Assets/titleScreen.dds** | `8,388,736` | `16e00cd05f88baab6964f02d6d6b6d77d584e5abe98e0a30e8474dc7ce3b80c5` |
+
+
+## Screenshots
+
+## 📸 Screenshots
+
+![Screenshot 2](screens/Screenshot_2.png)
+![Screenshot 3](screens/Screenshot_3.png)
+![Screenshot 4](screens/Screenshot_4.png)
+![Screenshot 6](screens/Screenshot_6.png)
+![Screenshot 7](screens/Screenshot_7.png)
+![Screenshot 8](screens/Screenshot_8.png)
