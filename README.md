@@ -17,7 +17,7 @@ Download from releases section on the right
 
 1. **Set resolution:** Launch the game, set your video resolution to **1440x1080**, and exit game.  
 
-2. **Copy DLL and config:** Place `winmm.dll` and `PiratesWide.ini` into your root game directory alongside `Pirates!.exe`.  
+2. **Copy DLL and config:** Place `winmm.dll` and `PiratesWide.ini` into your root game directory alongside `Pirates!.exe`.  No patching is needed. Just copy the dll.
    *Example path:* `<YourSteamLibrary>\steamapps\common\Sid Meier's Pirates!\`
 
 3. **Copy asset(s):** Place `titleScreen.dds` inside the `Assets\` folder (alongside the `.fpk` files).  
