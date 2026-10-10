@@ -60,7 +60,7 @@ The custom DLL acts as a proxy:
 
 | Target / File | Size (Bytes) | SHA-256 |
 | :--- | :--- | :--- |
-| **Pirates!.exe** (Steam Build 21031) | — | `5342209c16ea847fa6ac9b90f25a20b46012aef24d1b5f8a7c7facdfe174e2e7` |
+| **Pirates!.exe** (Steam Build 21031) | Provided by steam | `5342209c16ea847fa6ac9b90f25a20b46012aef24d1b5f8a7c7facdfe174e2e7` |
 | **winmm.dll** | `163,328` | `d992923768c1d62d3d83213c82f722057ec3e459488fcef83d7acab49d40e363` |
 | **Assets/titleScreen.dds** | `8,388,736` | `16e00cd05f88baab6964f02d6d6b6d77d584e5abe98e0a30e8474dc7ce3b80c5` |
 
